@@ -29,7 +29,7 @@ In the modern educational landscape, libraries play a pivotal role in the learni
 
 1. **Hardware Setup**: Connect Raspberry Pi with IR sensors, camera, TFT display, and Arduino components.
 2. **Software Setup**: Install necessary libraries like OpenCV, pyzbar, and mysql.connector on Raspberry Pi.
-3. **Database Configuration**: Set up MySQL database using provided commands in `mariadb database commands.pdf`.
+3. **Database Configuration**: Set up MySQL database using provided commands in `mariadb-database-commands.pdf`.
 4. **Code Installation**: Clone the repository and configure `app.py` with your database credentials and SMTP server details.
 5. **Arduino Remote Setup**: Upload `backend.ino` to Arduino Nano 33 IoT for adding users/books.
 6. **Run the System**: Execute `app.py` on Raspberry Pi to start the automated library management system.
@@ -37,7 +37,6 @@ In the modern educational landscape, libraries play a pivotal role in the learni
 ## Additional Notes ℹ️
 
 - For hands-on guidance on how to make this project, you can check out my [YouTube video](https://youtu.be/134aHhCnCaM).
-- For troubleshooting or updates, check the `Project Issues` section or reach out via `Project Discussions`.
 - Contributions and feedback are welcome! Feel free to fork the repository and submit pull requests.
 
 ## Consider 🌟 the repository to show some love 🙏
