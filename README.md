@@ -39,6 +39,4 @@ In the modern educational landscape, libraries play a pivotal role in the learni
 - For hands-on guidance on how to make this project, you can check out my [YouTube video](https://youtu.be/134aHhCnCaM).
 - Contributions and feedback are welcome! Feel free to fork the repository and submit pull requests.
 
-## Consider 🌟 the repository to show some love 🙏
-
-## THANK YOU :)
+Consider 🌟 the repository to show some love 🙏
